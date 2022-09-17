@@ -2,7 +2,7 @@
 //  MotionAnimationView.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/15.
+//  Created by MHC Inc on 2021/1/15.
 //
 
 import SwiftUI

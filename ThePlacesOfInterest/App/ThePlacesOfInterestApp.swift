@@ -2,7 +2,7 @@
 //  ThePlacesOfInterestApp.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/3.
+//  Created by MHC Inc on 2021/1/3.
 //
 
 import SwiftUI

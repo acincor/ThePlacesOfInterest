@@ -2,7 +2,7 @@
 //  InsetMessageView.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/10.
+//  Created by MHC Inc on 2021/1/10.
 //
 
 import SwiftUI

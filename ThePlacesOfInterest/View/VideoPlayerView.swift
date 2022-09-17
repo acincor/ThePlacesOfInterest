@@ -2,7 +2,7 @@
 //  VideoPlayerView.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/13.
+//  Created by MHC Inc on 2021/1/13.
 //
 
 import SwiftUI

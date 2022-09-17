@@ -30,7 +30,6 @@
 		C0A97E0E28D54D9100AAE8D6 /* CenterModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A97DD828D54D9100AAE8D6 /* CenterModifier.swift */; };
 		C0A97E0F28D54D9100AAE8D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0A97DD928D54D9100AAE8D6 /* Assets.xcassets */; };
 		C0A97E1028D54D9100AAE8D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0A97DDB28D54D9100AAE8D6 /* Preview Assets.xcassets */; };
-		C0A97E1128D54D9100AAE8D6 /* fortist.flac in Resources */ = {isa = PBXBuildFile; fileRef = C0A97DDC28D54D9100AAE8D6 /* fortist.flac */; };
 		C0A97E1228D54D9100AAE8D6 /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A97DDE28D54D9100AAE8D6 /* PlaceModel.swift */; };
 		C0A97E1328D54D9100AAE8D6 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A97DDF28D54D9100AAE8D6 /* VideoModel.swift */; };
 		C0A97E1428D54D9100AAE8D6 /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A97DE028D54D9100AAE8D6 /* CoverImageModel.swift */; };
@@ -56,6 +55,7 @@
 		C0A97E2828D54D9100AAE8D6 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A97DF728D54D9100AAE8D6 /* VideoPlayerHelper.swift */; };
 		C0A97E2C28D54E6200AAE8D6 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C0A97E2B28D54E6200AAE8D6 /* LICENSE */; };
 		C0A97E2E28D54E8E00AAE8D6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C0A97E2D28D54E8E00AAE8D6 /* README.md */; };
+		C0A97E3128D58F3500AAE8D6 /* fortist.flac in Resources */ = {isa = PBXBuildFile; fileRef = C0A97E3028D58F3500AAE8D6 /* fortist.flac */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,7 +83,6 @@
 		C0A97DD828D54D9100AAE8D6 /* CenterModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CenterModifier.swift; sourceTree = "<group>"; };
 		C0A97DD928D54D9100AAE8D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0A97DDB28D54D9100AAE8D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C0A97DDC28D54D9100AAE8D6 /* fortist.flac */ = {isa = PBXFileReference; lastKnownFileType = file; path = fortist.flac; sourceTree = "<group>"; };
 		C0A97DDE28D54D9100AAE8D6 /* PlaceModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
 		C0A97DDF28D54D9100AAE8D6 /* VideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		C0A97DE028D54D9100AAE8D6 /* CoverImageModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
@@ -111,6 +110,7 @@
 		C0A97E2A28D54DA500AAE8D6 /* ThePlacesOfInterest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ThePlacesOfInterest.entitlements; sourceTree = "<group>"; };
 		C0A97E2B28D54E6200AAE8D6 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C0A97E2D28D54E8E00AAE8D6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C0A97E3028D58F3500AAE8D6 /* fortist.flac */ = {isa = PBXFileReference; lastKnownFileType = file; name = fortist.flac; path = ../../../../Users/t.most/Desktop/fortist.flac; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,13 +152,13 @@
 				C0A97DD728D54D9100AAE8D6 /* Modifier */,
 				C0A97DD928D54D9100AAE8D6 /* Assets.xcassets */,
 				C0A97DDA28D54D9100AAE8D6 /* Preview Content */,
-				C0A97DDC28D54D9100AAE8D6 /* fortist.flac */,
 				C0A97DDD28D54D9100AAE8D6 /* Model */,
 				C0A97DE228D54D9100AAE8D6 /* View */,
 				C0A97DF128D54D9100AAE8D6 /* Data */,
 				C0A97DF628D54D9100AAE8D6 /* Helper */,
 				C0A97DF828D54D9100AAE8D6 /* Info.plist */,
 				C0A97E2A28D54DA500AAE8D6 /* ThePlacesOfInterest.entitlements */,
+				C0A97E3028D58F3500AAE8D6 /* fortist.flac */,
 			);
 			path = ThePlacesOfInterest;
 			sourceTree = "<group>";
@@ -330,7 +330,6 @@
 			files = (
 				C0A97E2528D54D9100AAE8D6 /* covers.json in Resources */,
 				C0A97E2728D54D9100AAE8D6 /* videos.json in Resources */,
-				C0A97E1128D54D9100AAE8D6 /* fortist.flac in Resources */,
 				C0A97E0128D54D9100AAE8D6 /* 杭州西湖.mov in Resources */,
 				C0A97DFA28D54D9100AAE8D6 /* Faded.flac in Resources */,
 				C0A97E2E28D54E8E00AAE8D6 /* README.md in Resources */,
@@ -338,6 +337,7 @@
 				C0A97DFD28D54D9100AAE8D6 /* 日月潭.mov in Resources */,
 				C0A97DFF28D54D9100AAE8D6 /* 承德避暑山庄.mov in Resources */,
 				C0A97E2C28D54E6200AAE8D6 /* LICENSE in Resources */,
+				C0A97E3128D58F3500AAE8D6 /* fortist.flac in Resources */,
 				C0A97DFB28D54D9100AAE8D6 /* 兵马俑.mov in Resources */,
 				C0A97E0328D54D9100AAE8D6 /* 万里长城.mov in Resources */,
 				C0A97E0028D54D9100AAE8D6 /* 桂林山水.mov in Resources */,
@@ -519,11 +519,12 @@
 				DEVELOPMENT_TEAM = P2AJHF4ZX2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ThePlacesOfInterest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -552,11 +553,12 @@
 				DEVELOPMENT_TEAM = P2AJHF4ZX2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ThePlacesOfInterest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

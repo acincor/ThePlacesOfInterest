@@ -2,7 +2,7 @@
 //  CopyRightView.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/20.
+//  Created by MHC Inc on 2021/1/20.
 //
 
 import SwiftUI
@@ -15,10 +15,9 @@ struct CopyrightView: View {
         .scaledToFit()
         .frame(width: 128, height: 128)
       Text("""
-        Copyright © liuming happy
+        Copyright © MHC INC
 
-        感谢所有购买此书的朋友们！❤️
-        祝贺你们能够完成本章的学习！
+         This app is Copyright © MHC Inc in 2022.5.19.06:34, This is The fourth app!
       """)
         .font(.footnote)
         .multilineTextAlignment(.center)

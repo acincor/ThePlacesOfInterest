@@ -2,7 +2,7 @@
 //  PlaceModel.swift
 //  ThePlacesOfInterest
 //
-//  Created by 刘铭 on 2021/1/9.
+//  Created by MHC Inc on 2021/1/9.
 //
 
 import Foundation

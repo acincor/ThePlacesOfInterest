@@ -2,7 +2,7 @@
 //  ContentViewList.swift
 //  ThePlacesOfInterest
 //
-//  Created by Monkey hammer on 2022/5/15.
+//  Created by MHC Inc on 2022/5/15.
 //
 
 import SwiftUI
